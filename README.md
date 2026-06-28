@@ -1,4 +1,4 @@
-# Calculator-With-History# 🧮 Calculator-With-History
+# 🧮 Calculator-With-History
 
 **A calculator that actually remembers what you calculated.**
 
