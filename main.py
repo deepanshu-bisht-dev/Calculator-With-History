@@ -23,7 +23,7 @@ def save_to_history(equation,result):
 def calculate(user_input):
     parts = user_input.split()
     if len(parts) != 3:
-        print("Invalid input. Use format 'number operator number' eg. (8+8).")
+        print("Invalid input. Use format 'number operator number' eg. (8 + 8).")
         return
 
     num1 = float(parts[0])
